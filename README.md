@@ -15,7 +15,7 @@
 
 | Skill Type | Technologies |
 | :--- | :--- |
-| **Languages** | Python, [PLACEHOLDER: e.g., HTML, CSS, JavaScript] |
+| **Languages** | Python, Java |
 | **Tools/Environments** | Git, GitHub, Command Line (PowerShell/Bash) |
 | **Concepts** | Data Structures, Randomized Algorithms, File I/O |
 
