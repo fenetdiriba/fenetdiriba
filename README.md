@@ -29,7 +29,7 @@ I'm always open to discussing new opportunities, collaborating on projects, or s
 
 
 * 📧 **Email:** fenetsolomon87@gmail.com
-* 🔗 **LinkedIn:** www.linkedin.com/in/fenet-diriba-096aaa28b
+* 🔗 **LinkedIn:** www.linkedin.com/in/fenet-diriba
 
   
 Thanks for stopping by! Happy coding! 💻
