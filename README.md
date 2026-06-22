@@ -1,23 +1,25 @@
 ## Fenet Here 👋
 
-                    My Coding Mantra: “If the solution is easy, you’re looking at the problem wrong.”
+                            My Mantra: “Be Hungry Enough!”
 
 
 💡 My Focus & Interest
 
 
 - **Current Obsession:** Mastering the Python ecosystem, focusing on efficient algorithms and data persistence.
-- **Learning Next:** SQL, or Django.
+- **Learning Next:* FinBERT, XGBoost, WebRTC, CRDT
 - **Looking For:** Opportunities to collaborate on open-source projects or contribute to a development team.
+- **interests: ml in finance · real-time systems · making math accessible
 
 
 
 
 | Skill Type | Technologies |
 | :--- | :--- |
-| **Languages** | Python, Java |
+| **Languages** | C++, Python, Java, JavaScript,SQL |
 | **Tools/Environments** | Git, GitHub, Command Line (PowerShell/Bash) |
 | **Concepts** | Data Structures, Randomized Algorithms, File I/O |
+ *(the stack grows as the projects ship)*
 
 
 
@@ -30,6 +32,7 @@ I'm always open to discussing new opportunities, collaborating on projects, or s
 
 * 📧 **Email:** fenetsolomon87@gmail.com
 * 🔗 **LinkedIn:** www.linkedin.com/in/fenet-diriba
+* 🌐 [fenetdiriba.github.io]
 
   
 Thanks for stopping by! Happy coding! 💻
