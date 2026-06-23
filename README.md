@@ -20,7 +20,7 @@
 | **Languages** | C++, Python, Java, JavaScript,SQL |
 | **Tools/Environments** | Git, GitHub, Command Line (PowerShell/Bash) |
 | **Concepts** | Data Structures, Randomized Algorithms, File I/O |
-       (the stack grows as the projects ship)*
+       (the stack grows as the projects ship)
 
 
 
