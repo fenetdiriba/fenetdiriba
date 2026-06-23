@@ -1,9 +1,10 @@
 ## Fenet Here 👋
 
-                            My Mantra: “Be Hungry Enough!”
+                                    My Mantra: “Be Hungry Enough!”
 
 
 💡 My Focus & Interest
+
 
 
 - **Current Obsession:** Mastering the Python ecosystem, focusing on efficient algorithms and data persistence.
@@ -19,7 +20,7 @@
 | **Languages** | C++, Python, Java, JavaScript,SQL |
 | **Tools/Environments** | Git, GitHub, Command Line (PowerShell/Bash) |
 | **Concepts** | Data Structures, Randomized Algorithms, File I/O |
- *(the stack grows as the projects ship)*
+       (the stack grows as the projects ship)*
 
 
 
@@ -27,7 +28,9 @@
 ### 🤝 Get In Touch
 
 
-I'm always open to discussing new opportunities, collaborating on projects, or sharing coding tips.
+
+I'm always open to discussing new opportunities, collaborating on projects, or chatting.
+
 
 
 * 📧 **Email:** fenetsolomon87@gmail.com
