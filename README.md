@@ -16,8 +16,8 @@
 <div align="center">
 
 * 💻 Double majoring in **Computer Science & Mathematics** at Gettysburg College
-* ☕ Passionate about software engineering, quantitative tech, and clean code
-* 🎧 Listening to jazz while building cozy web apps and tools
+* ☕ Passionate about software engineering, quantitative tech, and healthtech
+* 🎧 Listening to jazz while building web apps and tools
 * 🌱 Currently exploring AI, data science, and full-stack development
 
 </div>
@@ -35,19 +35,12 @@
 
 ---
 
-### 🌸 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fenetdiriba&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
-
----
-
 ### 📬 Let's Connect
 <p align="center">
   <a href="https://linkedin.com/in/fenet-diriba">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:fenetsolomon87@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
