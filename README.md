@@ -17,7 +17,6 @@
 
 * 💻 Double majoring in **Computer Science & Mathematics** at Gettysburg College
 * ☕ Passionate about software engineering, quantitative tech, and healthtech
-* 🎧 Listening to jazz while building web apps and tools
 * 🌱 Currently exploring AI, data science, and full-stack development
 
 </div>
